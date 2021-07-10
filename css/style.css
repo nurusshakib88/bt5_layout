@@ -1,0 +1,22 @@
+.header, .hero, .body, .bar, .footer{
+	margin-bottom: 10px;
+	background-color: skyblue;
+}
+
+
+
+.box {
+	margin: 10px 0;
+	height: 80px;
+	background-color: darkcyan;
+	font-size: 30px;
+	color: white;
+}
+
+.within{
+	background-color: #0000002e;
+}
+
+.red {
+	background-color: red;
+}
